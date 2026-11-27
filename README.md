@@ -30,3 +30,19 @@ cybersecurity and pursue a career in Security Operations.
 - Network Security
 - Digital Forensics
 - Security Automation
+
+## 🎓 Courses & Training
+
+- Cisco - CCNA: Introduction to Networks
+- Red Hat System Administration II (RH134)
+- Red Hat System Administration I (RH124)
+- The Complete Cyber Security Course
+- The Complete Python Bootcamp
+
+## 📚 Currently Developing
+
+- Security Monitoring & SIEM
+- Network Traffic Analysis
+- Digital Forensics & Incident Response
+- Python for Cybersecurity
+- Practical Security Lab Skills
