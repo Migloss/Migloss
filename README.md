@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Migloss/Migloss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in
+Cybersecurity and currently working as a Programming
+Instructor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about cybersecurity, Linux systems,
+computer networking and modern technologies.
+
+My goal is to develop practical skills in defensive
+cybersecurity and pursue a career in Security Operations.
+
