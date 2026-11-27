@@ -31,7 +31,7 @@ cybersecurity and pursue a career in Security Operations.
 - Digital Forensics
 - Security Automation
 
-## 🎓 Courses & Training
+## Courses & Training
 
 - Cisco - CCNA: Introduction to Networks
 - Red Hat System Administration II (RH134)
@@ -39,10 +39,23 @@ cybersecurity and pursue a career in Security Operations.
 - The Complete Cyber Security Course
 - The Complete Python Bootcamp
 
-## 📚 Currently Developing
+## Currently Developing
 
 - Security Monitoring & SIEM
 - Network Traffic Analysis
 - Digital Forensics & Incident Response
 - Python for Cybersecurity
 - Practical Security Lab Skills
+
+## Portfolio
+
+I'm building a cybersecurity portfolio focused on
+practical projects, security lab documentation and
+defensive security.
+
+## Career Goals
+
+- Gain practical experience in cybersecurity
+- Develop my skills in Blue Team operations
+- Pursue a career as a SOC Analyst
+- Continuously improve my technical knowledge
